@@ -1,4 +1,6 @@
-# Low-cost-Road-damage-detection-and-classification-using-accelerometer-sensor-and-machine-lear
+# Low-cost-Road-damage-detection-and-classification-using-accelerometer-sensor-and-machine-learning
+                                                                    by 
+                                                                    SIMMA SAI RAM
 classification of different damages of road using 3-D accelerometer data
   Road condition monitoring is a challenging problem in the field of road transportation infrastructure all over the world.
  A zone in bad condition may damage the vehicles on it, endanger the drivers, and even cause accidents, So city municipalities have spent millions of dollars to maintain and repair these roadways. 
